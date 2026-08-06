@@ -1,0 +1,132 @@
+BASIC LINUX COMMANDS
+
+Aim:
+To study and understand basic Linux commands.
+
+1. ls – List
+Purpose: Lists files and directories.
+Syntax: ls [options]
+Example: ls
+
+2. pwd – Print Working Directory
+Purpose: Shows the current directory path.
+Syntax: pwd
+Example: pwd
+
+3. mkdir – Make Directory
+Purpose: Creates a new directory.
+Syntax: mkdir directory_name
+Example: mkdir Documents
+
+4. cd – Change Directory
+Purpose: Changes the current directory.
+Syntax: cd directory_name
+Example: cd Documents
+
+5. rmdir – Remove Directory
+Purpose: Removes an empty directory.
+Syntax: rmdir directory_name
+Example: rmdir Documents
+
+6. cat – Concatenate
+Purpose: Displays file contents.
+Syntax: cat file_name
+Example: cat sample.txt
+
+7. cp – Copy
+Purpose: Copies files or directories.
+Syntax: cp source destination
+Example: cp file1.txt file2.txt
+
+8. mv – Move
+Purpose: Moves or renames files/directories.
+Syntax: mv source destination
+Example: mv old.txt new.txt
+
+9. rm – Remove
+Purpose: Deletes files or directories.
+Syntax: rm file_name
+Example: rm sample.txt
+
+10. uname – Unix Name
+Purpose: Shows system information.
+Syntax: uname [options]
+Example: uname -a
+
+11. locate – Locate
+Purpose: Finds files and directories.
+Syntax: locate file_name
+Example: locate sample.txt
+
+12. touch – Touch
+Purpose: Creates an empty file.
+Syntax: touch file_name
+Example: touch sample.txt
+
+13. ln – Link
+Purpose: Creates links between files.
+Syntax: ln source link_name
+Example: ln file.txt link.txt
+
+14. clear – Clear
+Purpose: Clears the terminal screen.
+Syntax: clear
+Example: clear
+
+15. ps – Process Status
+Purpose: Shows running processes.
+Syntax: ps [options]
+Example: ps
+
+16. man – Manual
+Purpose: Shows the manual for a command.
+Syntax: man command_name
+Example: man ls
+
+17. grep – Search
+Purpose: Searches for text in files.
+Syntax: grep "pattern" file_name
+Example: grep "hello" sample.txt
+
+18. echo – Echo
+Purpose: Displays text or variable values.
+Syntax: echo "text"
+Example: echo "Hello Linux"
+
+19. wget – Web Get
+Purpose: Downloads files from the internet.
+Syntax: wget URL
+Example: wget https://example.com/file.txt
+
+20. whoami – Who Am I
+Purpose: Shows the current username.
+Syntax: whoami
+Example: whoami
+
+21. sort – Sort
+Purpose: Sorts lines of text.
+Syntax: sort file_name
+Example: sort names.txt
+
+22. cal – Calendar
+Purpose: Displays a calendar.
+Syntax: cal
+Example: cal
+
+23. whereis – Where Is
+Purpose: Finds the location of a command.
+Syntax: whereis command_name
+Example: whereis ls
+
+24. df – Disk Free
+Purpose: Shows disk space usage.
+Syntax: df [options]
+Example: df -h
+
+25. wc – Word Count
+Purpose: Counts lines, words and characters.
+Syntax: wc file_name
+Example: wc sample.txt
+
+RESULT:
+Thus, the basic Linux commands were studied and understood.
