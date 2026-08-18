@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/rikhil/Desktop/OS/SlipTest/Q1/Q1c'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _limit_max_processes, symObjAddr: 0x0, symBinAddr: 0x100003DD0, symSize: 0x60 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _limit_max_processes, symObjAddr: 0x0, symBinAddr: 0x100003DD0, symSize: 0x60 }
+  - { offsetInCU: 0x65, offset: 0x65, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003E30, symSize: 0x99 }
+...
