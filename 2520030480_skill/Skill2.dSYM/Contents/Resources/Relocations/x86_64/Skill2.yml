@@ -1,0 +1,12 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/rikhil/Desktop/OS/2520030480_skill/Skill2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _disable_raw_mode, symObjAddr: 0x0, symBinAddr: 0x100003BE0, symSize: 0x20 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _orig_termios, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: _disable_raw_mode, symObjAddr: 0x0, symBinAddr: 0x100003BE0, symSize: 0x20 }
+  - { offsetInCU: 0x10E, offset: 0x10E, size: 0x8, addend: 0x0, symName: _enable_raw_mode, symObjAddr: 0x20, symBinAddr: 0x100003C00, symSize: 0x90 }
+  - { offsetInCU: 0x133, offset: 0x133, size: 0x8, addend: 0x0, symName: _display_prompt, symObjAddr: 0xB0, symBinAddr: 0x100003C90, symSize: 0x20 }
+  - { offsetInCU: 0x148, offset: 0x148, size: 0x8, addend: 0x0, symName: _read_line_custom, symObjAddr: 0xD0, symBinAddr: 0x100003CB0, symSize: 0x160 }
+  - { offsetInCU: 0x19A, offset: 0x19A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x230, symBinAddr: 0x100003E10, symSize: 0xE2 }
+...
